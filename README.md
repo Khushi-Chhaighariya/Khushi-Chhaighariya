@@ -16,10 +16,12 @@ Along with my development skills, I have also been active in **competitive progr
 ### 🎨 Frontend Skills
 - **Frameworks/Libraries:** React, Angular, Next.js
 - **Web Technologies:** HTML, CSS, JavaScript
+- 
 🛠 DevOps Skills
 Containerization: Docker, Kubernetes
 CI/CD: Jenkins, CI/CD pipelines
 Cloud Platforms:
+
 AWS Services:
 EC2 (Elastic Compute Cloud)
 ECS (Elastic Container Service)
@@ -32,6 +34,7 @@ CloudFormation
 AWS Lambda
 IAM (Identity and Access Management)
 Other Tools: JFrog, Prometheus, Grafana
+
 ⚡ Apache Tools
 Apache Kafka: Distributed streaming platform for building real-time data pipelines and streaming applications.
 Apache Camel: Integration framework for routing and mediation rules, enabling communication between different systems.
