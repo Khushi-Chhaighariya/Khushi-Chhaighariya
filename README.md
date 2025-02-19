@@ -12,11 +12,11 @@ Along with my development skills, I have also been active in **competitive progr
 - **Languages:** Java, Spring Framework, Spring Boot, Hibernate, Microservices
 - **APIs:** RESTful APIs
 - **Design Patterns:** Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
-
+---
 ### 🎨 Frontend Skills
 - **Frameworks/Libraries:** React, Angular, Next.js
 - **Web Technologies:** HTML, CSS, JavaScript
-  
+---
 🛠 DevOps Skills
 Containerization: Docker, Kubernetes
 CI/CD: Jenkins, CI/CD pipelines
